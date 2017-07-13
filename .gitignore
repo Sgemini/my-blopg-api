@@ -1,0 +1,32 @@
+config/database.yml
+latest.dump
+public/assets/
+.env
+*.rbc
+*.rdb
+.bundle/
+capybara-*.html
+.rspec
+.byebug_history
+/log
+/tmp
+/db/*.sqlite3
+/public/system
+/coverage/
+/spec/tmp
+/doc
+**.orig
+rerun.txt
+
+## Environment normalisation:
+/vendor/bundle
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+.idea/*
+
+*.DS_Store
+
+config/settings.local.yml
+config/settings/*.local.yml
+config/environments/*.local.yml
