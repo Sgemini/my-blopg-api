@@ -1,5 +1,4 @@
 config/database.yml
-config/secrets.yml
 latest.dump
 public/assets/
 .env
